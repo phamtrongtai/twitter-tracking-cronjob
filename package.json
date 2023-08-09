@@ -1,0 +1,14 @@
+{
+  "name": "twitter-tracking-cronjob",
+  "version": "1.0.0",
+  "description": "twitter-tracking-cronjob",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2"
+  }
+}
